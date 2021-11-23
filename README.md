@@ -1,1 +1,1 @@
-# Maze_automatization
+Arduino codes for automatizing behavioral paradigms.
